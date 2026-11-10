@@ -1,0 +1,5 @@
+{
+  "name": "Tool And Skills Framework Kit",
+  "description": "A standardized framework for AI assistant tools with a registry, policy engine, and permission controls.",
+  "requestFramePermissions": []
+}
